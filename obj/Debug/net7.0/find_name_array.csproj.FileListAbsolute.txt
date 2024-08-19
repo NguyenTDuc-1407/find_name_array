@@ -1,0 +1,15 @@
+C:\Users\ASUS\Desktop\find_name_array\bin\Debug\net7.0\find_name_array.exe
+C:\Users\ASUS\Desktop\find_name_array\bin\Debug\net7.0\find_name_array.deps.json
+C:\Users\ASUS\Desktop\find_name_array\bin\Debug\net7.0\find_name_array.runtimeconfig.json
+C:\Users\ASUS\Desktop\find_name_array\bin\Debug\net7.0\find_name_array.dll
+C:\Users\ASUS\Desktop\find_name_array\bin\Debug\net7.0\find_name_array.pdb
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.AssemblyInfoInputs.cache
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.AssemblyInfo.cs
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.dll
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\refint\find_name_array.dll
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.pdb
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\find_name_array.genruntimeconfig.cache
+C:\Users\ASUS\Desktop\find_name_array\obj\Debug\net7.0\ref\find_name_array.dll
